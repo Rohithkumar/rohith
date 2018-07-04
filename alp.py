@@ -1,10 +1,9 @@
-alp=input()
-if alp.isalpha():
-    if alp== "a" or alp=="e" or alp=="i" alp=="o" or alp=="u"
+ch=input()
+if ch.isalpha():
+   if(ch=='A' or ch=='a' or ch=='E' or ch =='e' or ch=='I'
+ or ch=='i' or ch=='O' or ch=='o' or ch=='U' or ch=='u'):
        print("it is an vowel")
-    else:
-       print("it is consonant")    
- else:
-     print{"invalid entry")
-     
-     
+   else:
+    print("it is consonant")    
+else:
+    print("invalid entry")
