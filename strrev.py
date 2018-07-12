@@ -1,2 +1,2 @@
 num=str(input())
-print(num[::-3])
+print(num[::-1])
