@@ -1,2 +1,2 @@
-stl=str(input())
-print(stl+".")
+srt=str(input())
+print(srt+".")
